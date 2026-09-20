@@ -1,5 +1,20 @@
 # Tutorial1
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [.gitignore](.gitignore) | このディレクトリで使用するファイルです。 |
+| [.terraform/](.terraform/) | 関連する設定・実装をまとめています。 |
+| [.terraform.lock.hcl](.terraform.lock.hcl) | このディレクトリで使用するファイルです。 |
+| [main.tf](main.tf) | このディレクトリで使用するファイルです。 |
+| [provider.tf](provider.tf) | このディレクトリで使用するファイルです。 |
+| [terraform.tfstate](terraform.tfstate) | このディレクトリで使用するファイルです。 |
+| [terraform.tfstate.backup](terraform.tfstate.backup) | このディレクトリで使用するファイルです。 |
+| [terraform.tfvars](terraform.tfvars) | このディレクトリで使用するファイルです。 |
+| [variables.tf](variables.tf) | このディレクトリで使用するファイルです。 |
+| [version.tf](version.tf) | このディレクトリで使用するファイルです。 |
+
 ## Install
 
 https://developer.hashicorp.com/terraform/install

@@ -1,5 +1,14 @@
 # oauth2-proxy: playground
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+| [docker-compose.yml](docker-compose.yml) | 設定またはリソース定義です。 |
+| [nginx/](nginx/) | 関連する設定・実装をまとめています。 |
+| [oauth2_proxy/](oauth2_proxy/) | 関連する設定・実装をまとめています。 |
+
 ## How to use for GitHub
 
 ### Settings on GitHub

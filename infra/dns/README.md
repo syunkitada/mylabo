@@ -1,5 +1,19 @@
 # DNS
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [.env](.env) | このディレクトリで使用するファイルです。 |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+| [docker-compose.yml](docker-compose.yml) | 設定またはリソース定義です。 |
+| [pdns-auth/](pdns-auth/) | 関連する設定・実装をまとめています。 |
+| [pdns-config/](pdns-config/) | 関連する設定・実装をまとめています。 |
+| [pdns-dnsdist/](pdns-dnsdist/) | 関連する設定・実装をまとめています。 |
+| [pdns-mysql/](pdns-mysql/) | 関連する設定・実装をまとめています。 |
+| [pdns-recursor/](pdns-recursor/) | 関連する設定・実装をまとめています。 |
+| [scripts/](scripts/) | 関連する設定・実装をまとめています。 |
+
 ## Description
 
 ```

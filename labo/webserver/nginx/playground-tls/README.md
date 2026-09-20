@@ -1,5 +1,13 @@
 # nginx: playground
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+| [docker-compose.yml](docker-compose.yml) | 設定またはリソース定義です。 |
+| [nginx/](nginx/) | 関連する設定・実装をまとめています。 |
+
 ## セットアップ方法
 
 ```

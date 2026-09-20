@@ -1,5 +1,14 @@
 # MariaDB: Playground
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [.env](.env) | このディレクトリで使用するファイルです。 |
+| [docker-compose.yml](docker-compose.yml) | 設定またはリソース定義です。 |
+| [docker-entrypoint-initdb.d/](docker-entrypoint-initdb.d/) | 関連する設定・実装をまとめています。 |
+| [my.cnf.d/](my.cnf.d/) | 関連する設定・実装をまとめています。 |
+
 ## Description
 
 This is a playground for [MariaDB](https://mariadb.org/) using Docker Compose.

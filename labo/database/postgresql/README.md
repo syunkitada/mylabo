@@ -1,5 +1,12 @@
 # PostgreSQL
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [k8s-postgresql.yml](k8s-postgresql.yml) | 設定またはリソース定義です。 |
+| [troubleshooting.md](troubleshooting.md) | ドキュメントです。 |
+
 - https://www.postgresql.org/
 
 ## ログイン方法

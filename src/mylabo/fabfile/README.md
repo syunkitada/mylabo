@@ -1,5 +1,18 @@
 # fabfile for Infra As A Code
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [__init__.py](__init__.py) | Pythonの実装またはテストです。 |
+| [any.py](any.py) | Pythonの実装またはテストです。 |
+| [apply.py](apply.py) | Pythonの実装またはテストです。 |
+| [debug.py](debug.py) | Pythonの実装またはテストです。 |
+| [delete.py](delete.py) | Pythonの実装またはテストです。 |
+| [get.py](get.py) | Pythonの実装またはテストです。 |
+| [spec.md](spec.md) | ドキュメントです。 |
+| [test.py](test.py) | Pythonの実装またはテストです。 |
+
 - fabric によって、yaml ファイルで定義した仕様書からローカルに実験環境を作成できます
 - 方針
   - なるべくコードはシェルスクリプトに落とし込んでブラックボックス化を避ける

@@ -1,5 +1,12 @@
 # SRv6
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [sample1/](sample1/) | 詳細は[sample1/README.md](sample1/README.md)を参照してください。 |
+| [sample2/](sample2/) | 詳細は[sample2/README.md](sample2/README.md)を参照してください。 |
+
 ## Segment Routing(SR) アーキテクチャ
 
 - ネットワークを Segment で表現し、送信元が Segment のリストをパケットに埋め込み転送する（ソースルーティング）

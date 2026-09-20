@@ -1,5 +1,11 @@
 # PDNS
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [archives/](archives/) | 関連する設定・実装をまとめています。 |
+
 ## References
 
 - PDNS Authoritative Server:

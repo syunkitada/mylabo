@@ -1,5 +1,12 @@
 # mattermost
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [docker-compose.yml](docker-compose.yml) | 設定またはリソース定義です。 |
+| [scripts/](scripts/) | 関連する設定・実装をまとめています。 |
+
 
 ## Image
 

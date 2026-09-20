@@ -1,5 +1,13 @@
 # srv6vrf
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [frr/](frr/) | 関連する設定・実装をまとめています。 |
+| [srv6vrf.md](srv6vrf.md) | ドキュメントです。 |
+| [srv6vrf.yml](srv6vrf.yml) | 設定またはリソース定義です。 |
+
 ## 環境準備
 
 - SRv6, VRF を利用するには、Kernel のビルドオプションに以下が含まれている必要があります

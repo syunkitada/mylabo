@@ -1,5 +1,14 @@
 # NFS
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [archives/](archives/) | 関連する設定・実装をまとめています。 |
+| [sync.sh](sync.sh) | シェルスクリプトです。 |
+| [watch.go](watch.go) | このディレクトリで使用するファイルです。 |
+| [watch.sh](watch.sh) | シェルスクリプトです。 |
+
 ## セットアップ
 
 ```

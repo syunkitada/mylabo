@@ -1,5 +1,16 @@
 # QEMU
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [archived/](archived/) | 関連する設定・実装をまとめています。 |
+| [image.md](image.md) | ドキュメントです。 |
+| [internal/](internal/) | 詳細は[internal/README.md](internal/README.md)を参照してください。 |
+| [libvirt/](libvirt/) | 詳細は[libvirt/README.md](libvirt/README.md)を参照してください。 |
+| [memo.md](memo.md) | ドキュメントです。 |
+| [qemu_monitor.md](qemu_monitor.md) | ドキュメントです。 |
+
 - [公式](https://www.qemu.org/)
 - [公式: ドキュメント](https://www.qemu.org/docs/master/)
 

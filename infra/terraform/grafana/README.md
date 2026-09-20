@@ -1,5 +1,21 @@
 # terraform: grafana
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [.terraform/](.terraform/) | 関連する設定・実装をまとめています。 |
+| [.terraform.lock.hcl](.terraform.lock.hcl) | このディレクトリで使用するファイルです。 |
+| [dashboards/](dashboards/) | 関連する設定・実装をまとめています。 |
+| [datasources.tf](datasources.tf) | このディレクトリで使用するファイルです。 |
+| [outputs.tf](outputs.tf) | このディレクトリで使用するファイルです。 |
+| [providers.tf](providers.tf) | このディレクトリで使用するファイルです。 |
+| [terraform.tfstate](terraform.tfstate) | このディレクトリで使用するファイルです。 |
+| [terraform.tfstate.backup](terraform.tfstate.backup) | このディレクトリで使用するファイルです。 |
+| [terraform.tfvars](terraform.tfvars) | このディレクトリで使用するファイルです。 |
+| [variables.tf](variables.tf) | このディレクトリで使用するファイルです。 |
+| [versions.tf](versions.tf) | このディレクトリで使用するファイルです。 |
+
 ## Grafana のセットアップ
 
 Home > Administration > Users and access > Service accounts
