@@ -1,5 +1,15 @@
 # frr1
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [Dockerfile](Dockerfile) | Dockerイメージのビルド定義です。 |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+| [etc/](etc/) | 関連する設定・実装をまとめています。 |
+| [frr.md](frr.md) | ドキュメントです。 |
+| [frr.sh](frr.sh) | シェルスクリプトです。 |
+
 - 多段で BGP をつなぎ、各ノード間で疎通が取れるようにするだけ
 
 ## 構成

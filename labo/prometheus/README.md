@@ -1,5 +1,16 @@
 # prometheus
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+| [alertmanager.md](alertmanager.md) | ドキュメントです。 |
+| [allinone/](allinone/) | 関連する設定・実装をまとめています。 |
+| [ha/](ha/) | 詳細は[ha/README.md](ha/README.md)を参照してください。 |
+| [pushgateway.md](pushgateway.md) | ドキュメントです。 |
+| [tools/](tools/) | 関連する設定・実装をまとめています。 |
+
 ## 仕組み
 
 - Prometheus(サーバ)

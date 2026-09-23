@@ -1,5 +1,11 @@
 # Sheilds.io
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+
 - https://shields.io/
 - https://github.com/badges/shields
 

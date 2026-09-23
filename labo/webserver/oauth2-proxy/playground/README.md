@@ -1,5 +1,14 @@
 # oauth2-proxy: playground
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+| [docker-compose.yml](docker-compose.yml) | 設定またはリソース定義です。 |
+| [nginx/](nginx/) | 関連する設定・実装をまとめています。 |
+| [oauth2_proxy/](oauth2_proxy/) | 関連する設定・実装をまとめています。 |
+
 ## How to use for GitHub
 
 ### Settings on GitHub
@@ -11,8 +20,8 @@ https://github.com/settings/applications/new
 入力項目:
 
 - Application name: myapp
-- Homepage URL: https://myapp.localhost.test
-- Authorization callback URL: https://myapp.localhost.test
+- Homepage URL: https://myapp.local.test
+- Authorization callback URL: https://myapp.local.test
 
 アプリケーションが作成で来たら、client_id、client_secret をメモしておきます。
 
@@ -42,12 +51,12 @@ $ make clean
 
 ### Access to your web site
 
-myapp.localhost.test にアクセスできるよう、/etc/hosts にエントリを記載しておきます。
+myapp.local.test にアクセスできるよう、/etc/hosts にエントリを記載しておきます。
 
 ```
-[your server ip]   myapp.localhost.test
+[your server ip]   myapp.local.test
 ```
 
 ブラウザから、以下のアドレスにアクセスして、GitHubの認証を通してWebページにアクセスできることを確認してください。
 
-https://myapp.localhost.test
+https://myapp.local.test

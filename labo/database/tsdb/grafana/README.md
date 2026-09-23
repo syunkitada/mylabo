@@ -1,5 +1,11 @@
 # Grafana
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [haproxy.js](haproxy.js) | このディレクトリで使用するファイルです。 |
+
 ## Install and Start
 ```
 $ wget https://grafanarel.s3.amazonaws.com/builds/grafana-4.1.1-1484211277.linux-x64.tar.gz

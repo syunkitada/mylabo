@@ -1,5 +1,11 @@
 # Consul
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [docker-compose.yml](docker-compose.yml) | 設定またはリソース定義です。 |
+
 ## Architecture
 
 - https://developer.hashicorp.com/consul/docs/architecture

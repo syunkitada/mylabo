@@ -1,5 +1,11 @@
 # VM
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [rocky9.yml](rocky9.yml) | 設定またはリソース定義です。 |
+
 ```
 $ sudo uv run mylabo apply -f manifests/infras/vm/rocky9.yml
 ```

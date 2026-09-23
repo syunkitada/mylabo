@@ -1,5 +1,21 @@
 # bird1
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [all.sh](all.sh) | シェルスクリプトです。 |
+| [as1111.sh](as1111.sh) | シェルスクリプトです。 |
+| [package.sh](package.sh) | シェルスクリプトです。 |
+| [tier1-bird.sh](tier1-bird.sh) | シェルスクリプトです。 |
+| [tier1.sh](tier1.sh) | シェルスクリプトです。 |
+| [tier11-bird.sh](tier11-bird.sh) | シェルスクリプトです。 |
+| [tier11.sh](tier11.sh) | シェルスクリプトです。 |
+| [tier111-bird.sh](tier111-bird.sh) | シェルスクリプトです。 |
+| [tier111.sh](tier111.sh) | シェルスクリプトです。 |
+| [tier12-bird.sh](tier12-bird.sh) | シェルスクリプトです。 |
+| [tier12.sh](tier12.sh) | シェルスクリプトです。 |
+
 ## IP 割り当て
 
 - グローバル IP 10.0.0.0/8

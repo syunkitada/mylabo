@@ -1,5 +1,15 @@
 # frr2
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [Dockerfile](Dockerfile) | Dockerイメージのビルド定義です。 |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+| [etc/](etc/) | 関連する設定・実装をまとめています。 |
+| [frr.md](frr.md) | ドキュメントです。 |
+| [frr.sh](frr.sh) | シェルスクリプトです。 |
+
 - 3 段 CLOS 構成
 - spine は 2 台で 1 セット、leaf も 2 台で１セットのアクティブアクティブ構成
 - 各 spine は配下の各 leaf へそれぞれ配線される

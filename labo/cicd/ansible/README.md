@@ -1,5 +1,16 @@
 # ansible
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [Makefile](Makefile) | ビルド・実行タスクの定義です。 |
+| [NOTE.md](NOTE.md) | ドキュメントです。 |
+| [ansible_quickstart/](ansible_quickstart/) | 関連する設定・実装をまとめています。 |
+| [requirements.txt](requirements.txt) | このディレクトリで使用するファイルです。 |
+| [sample/](sample/) | 関連する設定・実装をまとめています。 |
+| [tester/](tester/) | 関連する設定・実装をまとめています。 |
+
 - 公式ドキュメント
   - https://docs.ansible.com/ansible/latest/getting_started/index.html
 - 事例

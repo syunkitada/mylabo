@@ -1,5 +1,12 @@
 # TSDB
 
+## Index
+
+| Path | Description |
+| --- | --- |
+| [grafana/](grafana/) | 詳細は[grafana/README.md](grafana/README.md)を参照してください。 |
+| [influx.db](influx.db) | このディレクトリで使用するファイルです。 |
+
 ## Link
 | Name | Description |
 | --- | --- |
