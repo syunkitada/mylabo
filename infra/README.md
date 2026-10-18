@@ -10,6 +10,7 @@
 | [terraform/](terraform/) | 詳細は[terraform/README.md](terraform/README.md)を参照してください。 |
 | [tls/](tls/) | 詳細は[tls/README.md](tls/README.md)を参照してください。 |
 
+- https://mybox.svc.local.test
 - https://haproxy.svc.local.test/stats
 - https://dnsdist.svc.local.test
 - https://pdnsadmin.svc.local.test
